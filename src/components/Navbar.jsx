@@ -24,7 +24,7 @@ export default function Navbar() {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <motion.div whileHover={{ scale: 1.1 }} className="text-xl font-bold cursor-pointer">
-            Dev Anandan
+            Sanjay Kalpana
           </motion.div>
 
           {/* Desktop Navigation */}
